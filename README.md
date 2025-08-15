@@ -24,7 +24,4 @@ This tool allows users to enter their height (cm) and weight (kg) to calculate B
 
 ## 🚀 Installation & Usage
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/your-username/bmi-calculator.git
-cd bmi-calculator
+
